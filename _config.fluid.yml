@@ -951,6 +951,9 @@ category:
   # The maximum number of posts in a single category. If the limit is exceeded, it will be displayed More. If 0 no limit
   post_limit: 10
 
+categories:
+  # 具体分类设置
+  - [课程学习, 信号与系统, 信息论, 算法设计与分析, 量子力学]
 
 #---------------------------
 # 标签页
